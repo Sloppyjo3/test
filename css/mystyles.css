@@ -1,0 +1,11 @@
+body{
+background-color: rgb(190, 182, 160);
+    font-family: 'Comic Sans MS', Georgia, 'Times New Roman', Times, serif
+}
+h1,h2,h3, .subheading{
+    font-family: 'Comic Sans MS', Georgia, 'Times New Roman', Times, serif !important
+}
+a:hover{
+    color: rgb(196, 107, 75);
+    
+}
